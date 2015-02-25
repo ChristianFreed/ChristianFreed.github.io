@@ -14,7 +14,7 @@
 	font-style: normal;
 }
 body {
-	background-color: #fff;
+	background-color: #A52A2A;
 	font-family: 'OpenSans';
 	margin: 0;
 }
@@ -32,7 +32,7 @@ img {
 .btn {
 	background: url(../images/bg-button.png) no-repeat;
 	background-position: 0 -70px;
-	color: #fff;
+	color: #A52A2A;
 	display: inline-block;
 	font: 24px/60px 'OpenSans';
 	height: 60px;
@@ -46,7 +46,7 @@ img {
 }
 /*------------------------------ HEADER ------------------------------*/
 #header {
-	background-color: #eee;
+	background-color: #000;
 	border-bottom: 1px solid #e6e6e6;
 	padding: 27px 0;
 }
@@ -97,7 +97,7 @@ img {
 	text-decoration: none;
 }
 #navigation li a:hover {
-	color: #000;
+	color: #A52A2A;
 }
 #navigation li.active a {
 	color: #f99600;
@@ -117,7 +117,7 @@ img {
 	margin-left: 60px;
 }
 #adbox h1, #adbox h2 {
-	color: #2c2c2c;
+	color: #000;
 	font-size: 60px;
 	line-height: 60px;
 	margin: 0;
