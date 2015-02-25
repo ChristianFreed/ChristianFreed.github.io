@@ -91,7 +91,7 @@ img {
 	text-align: center;
 }
 #navigation li a {
-	color: #818181;
+	color: #320D0D;
 	font-size: 15px;
 	line-height: 30px;
 	text-decoration: none;
@@ -118,6 +118,7 @@ img {
 }
 #adbox h1, #adbox h2 {
 	color: #000;
+
 	font-size: 60px;
 	line-height: 60px;
 	margin: 0;
@@ -145,6 +146,7 @@ img {
 	display: block;
 	width: 256px;
 }
+
 /*------------------------------ CONTENTS ------------------------------*/
 #contents {
 	min-height: 510px;
@@ -213,7 +215,7 @@ p a {
 	margin-bottom: 6px;
 }
 .author {
-	color: #320D0D;
+	color: #fff;
 	display: block;
 	font-size: 12px;
 }
